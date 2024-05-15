@@ -1,5 +1,5 @@
 # MLP-project-Last-term
-This is last term machine learning project. it is in form of  a Kaggle competition held between IITM students.
+<p>This is last-term machine learning project. it is in form of  a Kaggle competition held between IITM students.</p>
 
 <p><b>Situation:</b></p>
 <p>Somato company want to predict the rating of a recipe from the comments of users.</p>
@@ -27,11 +27,11 @@ Build models that can guess the ratings for each recipe using this information.
 
 <p>1. Observe the data and write down your data summary.</p>
 <p>2. Import all necessary libraries and perform EDA.</p>
-<p>Split features and target variables from training data.</p>3. 
-<p>Perform feature engineering.</p>4. 
-<p>Apply one hot encoder on categorical and standard scaler on numerical data.</p>5. 
+<p>3.Split features and target variables from training data.</p>
+<p>4.Perform feature engineering.</p>
+<p>5. Apply one-hot encoder on categorical and standard scaler on numerical data.</p>
 <p>6. Perform TFID-vectorization on a recipe-review column to clean text.</p>
-<p>>7. Build the baseline model.</p
+<p>7. Build the baseline model.</p>
 <p>8. Applied logistics regression and performed hyperparameter tuning with randomized search CV.</p>
 <p>9. Applied KNN algorithm and performed hyperparameter tuning with randomized search CV.</p>
 <p>10. Applied random forest algorithm and performed hyperparameter tuning with randomized search CV.</p>
@@ -48,5 +48,3 @@ Build models that can guess the ratings for each recipe using this information.
 <p>3. The best Hyperparameters for the Random Forest classifier are:{'n_estimators': 100, min_samples_split': 6, 'max_features': 'sqrt', 'bootstrap': False}</p>
 <p>4. Best Hyper parameter for Bagging classifier are :{'n_estimators': 500, max_samples=100, 'max_features': 100, 'bootstrap': False}</p>
 <p>5. The best accuracy score achieved is 0.80004</p>
-
-<p>How do this project useful in the real world</p
