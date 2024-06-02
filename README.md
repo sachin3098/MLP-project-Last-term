@@ -1,8 +1,8 @@
 # MLP-project-Last-term
-<p>This is last-term machine learning project. it is in form of  a Kaggle competition held between IITM students.</p>
+<p>This is a last-term machine learning project. it is in the form of  a Kaggle competition held between IITM students.</p>
 
 <p><b>Situation:</b></p>
-<p>Somato company want to predict the rating of a recipe from the comments of users.</p>
+<p>Somato company wants to predict a recipe's rating from users' comments.</p>
 
 <p><b>Task:</b></p>
 Build models that can guess the ratings for each recipe using this information.
